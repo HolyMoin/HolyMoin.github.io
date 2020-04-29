@@ -1,0 +1,3 @@
+Hi everyone, this is my portfolio that I created using Git from command line.
+I am adding this information.txt file to add a new document that gives a short info about this repository/portfolio
+I downloaded this template from html5up.net and edited all the code in Visual Studio Code.
